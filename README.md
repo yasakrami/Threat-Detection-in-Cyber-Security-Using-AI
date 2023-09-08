@@ -4,13 +4,13 @@
 
 The "Threat Detection in Cyber Security Using AI" project aims to develop a threat detection system using machine learning algorithms. The project consists of several steps, each of which contributes to the overall goal of enhancing cyber security. Here's an overview of each step:
 
-### Step 1: Data Preprocessing (preprocessing.ipynb)
+### Step 1: Data Preprocessing (PreProcessing.ipynb)
 
 - This step involves data preprocessing to prepare the dataset for machine learning.
 - The dataset used is the CIC-IDS2017 dataset, which should be stored in the "CSVs" folder located in the same directory as the program.
 - You can access the dataset files [here](https://www.unb.ca/cic/datasets/ids-2017.html).
 
-### Step 2: Attack Data Filtering (attack_filter.ipynb)
+### Step 2: Attack Data Filtering (AttackDivision.ipynb)
 
 - In this step, the program uses the "all_data.csv" file to create attack-specific files.
 - These attack files are then saved in the "./attacks/" directory for further analysis.
