@@ -16,7 +16,7 @@ The "Threat Detection in Cyber Security Using AI" project aims to develop a thre
 - These attack files are then saved in the "./attacks/" directory for further analysis.
 - The dataset contains a total of 12 attack types, and this step separates them for individual examination.
 
-### Step 3: Feature Selection and Machine Learning (feature_selection_for_attack_files.ipynb)
+### Step 3: Feature Selection and Machine Learning (FeatureSelection.ipynb)
 
 - This step focuses on feature selection for the attack files created in Step 2.
 - The program identifies the four features with the highest weight for each file.
