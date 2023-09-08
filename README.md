@@ -22,7 +22,7 @@ The "Threat Detection in Cyber Security Using AI" project aims to develop a thre
 - The program identifies the four features with the highest weight for each file.
 - These selected features are used as input for machine learning algorithms.
 
-### Step 4: Machine Learning Algorithm Evaluation (attack_classification.ipynb)
+### Step 4: Machine Learning Algorithm Evaluation (MachineLearningSep.ipynb)
 
 - The final step applies seven machine learning algorithms to each attack file multiple times for robust evaluation.
 - Results of these operations are displayed on the screen and saved in the file "./attacks/results_1.csv".
